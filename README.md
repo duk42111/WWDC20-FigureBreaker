@@ -23,6 +23,7 @@ let gameScene = GameScene(gameLevel: .feasible)
 * Move your cursor or finger around the screen and "slice" figures. Be careful not to hit wrong figures, you have only **3** lives!
 
 * The target figure randomly changes and is displayed on the top of the scene:
+
 ![](targetFigure.png)
 
 # Enjoy!
